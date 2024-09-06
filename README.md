@@ -17,8 +17,6 @@
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="35"/><!-- VSC -->
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="35"/><!-- HTML -->
 <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="35"/><!-- HTML -->
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256" height="35"/><!-- Postman -->
-<img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" height="35"/></h3><!-- Postman -->
 
 Пишу серверное ПО. Помогаю делать так, чтобы сайты не падали и в них появлялся новый функционал; а также облегчаю понимание существующего ПО для других программистов - за счёт этого сокращается срок внедрения новых фич и время на раскачку для нового программиста, привлекаемого к работе над общим проектом.
 
