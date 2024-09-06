@@ -4,7 +4,7 @@
 <!-- Первая строка иллюстраций технологий -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" height="47"/><!--Голанг-->
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  height="47" /> <!--С++-->
-<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  height="47" /> <!--С++-->
+<img src="[https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png](https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b)"  height="47" /> <!--С++-->
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-21-1174928.png" height="47"/><!-- Линукс -->
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-19-190819.png" height="47"/><!-- Винда -->
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="47"/><!-- Гит -->
