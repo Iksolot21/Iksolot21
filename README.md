@@ -34,5 +34,3 @@
 
 Если вы IT-рекрутер и вам подходит мой опыт, буду рад пообщаться и выполнить тестовое задание.<br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Iksolot)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jedyEvgeny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
