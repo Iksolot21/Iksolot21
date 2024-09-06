@@ -3,6 +3,7 @@
 <h3 align="center">Я Golang-разработчик</h3>
 <!-- Первая строка иллюстраций технологий -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" height="47"/><!--Голанг-->
+<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  height="47 />
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-linux-21-1174928.png" height="47"/><!-- Линукс -->
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-windows-19-190819.png" height="47"/><!-- Винда -->
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="47"/><!-- Гит -->
@@ -13,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" height="47"/><!-- Баш -->
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" height="47"/> <!-- SQLite -->
 <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="47"/></h3> <!-- PostgreSQL -->
-<img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  height="47 />
+
 <!-- Вторая строка иллюстраций технологий -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="35"/><!-- VSC -->
 <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="35"/><!-- HTML -->
