@@ -1,4 +1,4 @@
-<h2 align="center">Здравствуйте, меня зовут <a href="https://vk.com/e.klyukman" target="_blank">Артём Гусев</a> 
+<h2 align="center">Здравствуйте, меня зовут <a href="https://vk.com/artemm_gusevvvv" target="_blank">Артём Гусев</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">Я Golang-разработчик</h3>
 <!-- Первая строка иллюстраций технологий -->
