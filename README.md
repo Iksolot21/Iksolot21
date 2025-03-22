@@ -3,7 +3,7 @@
 </div>
 <h2 align="center">Здравствуйте, меня зовут <a href="https://vk.com/artemm_gusevvvv" target="_blank">Артём Гусев</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h3 align="center">Я Golang-разработчик</h3>
+<h3 align="center">Я backend-разработчик</h3>
 <!-- Первая строка иллюстраций технологий -->
 <h3 align="center"><img src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" height="47"/><!--Голанг-->
 <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"  height="47" /> <!--С++-->
